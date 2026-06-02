@@ -1,0 +1,15 @@
+{
+  "name": "adpredict-ai",
+  "version": "1.0.0",
+  "description": "Sales Forecasting & Budget Optimizer using Polynomial Regression",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test_model.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
